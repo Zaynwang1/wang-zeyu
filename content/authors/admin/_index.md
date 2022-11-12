@@ -1,32 +1,37 @@
 ---
-# Display name
-title: Alice Bighetti 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Wang Zeyu 王泽宇
+role: Master of Urban Planning Candidate, NUS
+avatar_filename: 11.jpg
+bio: An urbanist with a great passion for using emerging spatiotemporal data
+  sources to analyze and evaluate the built environment and mobility factors at
+  different scales, hoping to improve the living quality and call for social
+  justice.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-# Education to show in About widget
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: Twitter
+    icon_pack: fab
+    link: https://twitter.com/ambitions1001
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: CNKI
+    icon_pack: fas
+    link: https://kns.cnki.net/kcms/detail/knetsearch.aspx?dbcode=CJFD&code=000042929010&sfield=au&skey=%e7%8e%8b%e6%b3%bd%e5%ae%87&uniplatform=NZKPT
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Zaynwang1
+  - icon: Linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zeyu-wang-aa8868221/
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -38,47 +43,10 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+superuser: true
+last_name: Bighetti
 highlight_name: true
+first_name: Alice
+email: ""
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Wang Zeyu is a graduate of the Human Geography and Urban and Rural Planning program of Huazhong Normal University in the class of 2021, and a Master of Urban Planning candidate at the National University of Singapore. He is interested in using emerging spatial data sources, such as streetscape images and machine learning techniques, to conduct interdisciplinary research on built environment and public health. His research results have been published in Urban Development Research, City Watch and other important geography journals in China. He has been awarded national scholarship and excellent graduate.
