@@ -2,13 +2,13 @@
 widget: about
 active: true
 author: admin
-widget_id: Recent-posts
+widget_id: About
 headless: true
 weight: 0
 title: Biography
 design:
   background:
-    image: 11.jpg
+    image: ""
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
