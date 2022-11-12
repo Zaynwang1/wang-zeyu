@@ -1,15 +1,14 @@
 ---
 title: Wang Zeyu 王泽宇
-role: Master of Urban Planning Candidate, NUS
+role: Master of Urban Planning Candidate
 avatar_filename: 11.jpg
 bio: An urbanist with a great passion for using emerging spatiotemporal data
   sources to analyze and evaluate the built environment and mobility factors at
   different scales, hoping to improve the living quality and call for social
   justice.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban Analytics
+  - Human Mobility
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,19 +29,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zeyu-wang-aa8868221/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: "National University of Singapore "
+    url: https://www.nus.edu.sg/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Urban Planning
+      institution: National University of Singapore
+      year: 2023
+    - course: BSc in Human Geograpgy and Urban Planning
+      institution: Central China Normal University
+      year: 2021
 superuser: true
 last_name: Bighetti
 highlight_name: true
