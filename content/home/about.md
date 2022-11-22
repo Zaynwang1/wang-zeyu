@@ -1,14 +1,16 @@
 ---
-widget: about
+widget: TEST TEXTS
 active: true
 author: admin
-widget_id: About
+widget_id: TEXT TEXTS
 headless: true
 weight: 0
 title: Biography
 design:
   background:
     image: ""
+    color: "#e70000"
+  columns: "1"
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
